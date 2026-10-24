@@ -112,13 +112,13 @@ Anything running **Android TV** or **Google TV**.
 
 Tested lists from contributors, one folder per model in [`examples/`](examples/):
 
-**TCL** 57 · **Sony** 31 · **Xiaomi** 28 · **Philips** 14 · **Hisense** 9 · **Skyworth** 9 · **Amazon Fire TV** 7 ·
+**TCL** 57 · **Sony** 32 · **Xiaomi** 29 · **Philips** 14 · **Hisense** 10 · **Skyworth** 9 · **Amazon Fire TV** 7 ·
 **Thomson** 4 · **BenQ** 3 · **Google** 3 · **Haier** 3 · **OnePlus** 3 · **Panasonic** 3 · **CHiQ** 2 · **FFalcon** 2 ·
 **Hitachi** 2 · **Kalley** 2 · **Motorola** 2 · **Nokia** 2 · **NVIDIA Shield** 2 · **onn** 2 · **RCA** 2 · **Redmi** 2 ·
 **Sankey** 2 · **SHARP** 2 · **Toshiba** 2 · **Vu** 2 ·
-Acer · AiPro2K · AIWA · Artel · Caxium · Cecotec · Challenger · Compac · Dialog · EKO · Freebox · Grundig ·
-Insignia Fire TV · JVC · Karbonn · Kogan · Lumio · Master-G · MTC · Noblex · OK. · PEAQ · Polytron · PRISM+ · RockTek ·
-SANYO · Sber · Super General · Tele System · TiVo · Tornado · Turkcell · Verizon · Vidda · Vision ·
+Acer · AiPro2K · AIWA · Artel · Caxium · Cecotec · Challenger · Compac · Dialog · EKO · Freebox · Grundig · INCLO ·
+Insignia Fire TV · JVC · Karbonn · Kogan · KTC · Liberton · Lumio · Master-G · MTC · Noblex · OK. · PEAQ · Polytron ·
+PRISM+ · RockTek · SANYO · Sber · Super General · Tele System · TiVo · Tornado · Turkcell · Verizon · Vidda · Vision ·
 Anker Nebula, BYINTEK, Epson, Formovie, Gadnic, HOTACK, JMGO, Magcubic, Portronics, Stellamore, Wanbo and XGIMI projectors
 
 <details>
