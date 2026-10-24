@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No accessibilityEventTypes: the system never calls into the add-on for accessibility events, and no
+     key filtering. canRetrieveWindowContent and flagRetrieveInteractiveWindows let the phone's keyboard
+     ("type") find the focused text field in any window when asked; the global actions need nothing more. -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/key_service_description" />

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 16:9 banner: a phone beside a TV on an orange tile, with a signal arc from the phone. Own art. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#FF7A00" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M112,40h156a12,12 0 0 1 12,12v76a12,12 0 0 1 -12,12h-156a12,12 0 0 1 -12,-12v-76a12,12 0 0 1 12,-12z" />
+    <path android:fillColor="#1C1C22" android:pathData="M114,48h152a6,6 0 0 1 6,6v72a6,6 0 0 1 -6,6h-152a6,6 0 0 1 -6,-6v-72a6,6 0 0 1 6,-6z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M160,146h60v6h-60z" />
+    <path android:fillColor="#1C1C22" android:pathData="M40,72h34a8,8 0 0 1 8,8v62a8,8 0 0 1 -8,8h-34a8,8 0 0 1 -8,-8v-62a8,8 0 0 1 8,-8z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M42,82h30v52h-30z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M66,58a14,14 0 0 1 14,-14M66,44a28,28 0 0 1 28,-28" />
+    <path android:fillColor="#FF8A00" android:pathData="M174,90m-14,0a14,14 0 1 0 28,0a14,14 0 1 0 -28,0" />
+</vector>

@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tv-remote",
+  "main": "src/index.js",
+  "compatibility_date": "2026-06-01",
+  "workers_dev": true,
+  // Optional: who push services can contact about this relay (mailto: or https:).
+  // "vars": { "VAPID_SUBJECT": "mailto:you@example.com" },
+  "durable_objects": {
+    "bindings": [{ "name": "TV", "class_name": "Tv" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Tv"] }],
+  // Invocation logs would keep request URLs, and the manifest URL carries the phone key.
+  "observability": { "enabled": true, "logs": { "invocation_logs": false } }
+}

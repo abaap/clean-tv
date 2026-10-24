@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Remote</string>
+    <string name="key_service_label">TV Remote keyboard</string>
+    <string name="key_service_description">Lets the paired phone type into the text field that is selected on the TV, press Back or Home, and put the TV to sleep. It looks for the text field only when the phone types.</string>
+    <string name="remote_channel">Phone remote</string>
+    <string name="remote_notification">Connected to your phone remote relay</string>
+    <string name="live_channel">Live view for the phone remote</string>
+
+    <string name="card_hint">Scan with your phone\'s camera and open the link, then Add to Home Screen. It works from anywhere.</string>
+    <string name="card_hidden_hint">The code is hidden. Show it to pair another phone.</string>
+    <string name="card_no_relay">No relay address in this build.\n\nDeploy relay/ to your Cloudflare account (npx wrangler deploy), then build with\n./gradlew assembleRelease -PrelayUrl=https://tv-remote.&lt;you&gt;.workers.dev\nand install again. The README has the steps.</string>
+    <string name="status_online">Relay online</string>
+    <string name="status_connecting">Connecting to the relay…</string>
+    <string name="new_code">New code</string>
+    <string name="new_code_done">New code. Phones paired before must scan it again.</string>
+    <string name="hide_code">Hide code</string>
+    <string name="show_code">Show code</string>
+    <string name="check_overlay">Display over other apps</string>
+    <string name="check_accessibility">Keyboard (accessibility)</string>
+    <string name="check_usage">Usage access (Screen time)</string>
+    <string name="check_capture">Screen capture (live view)</string>
+    <string name="check_secure">ADB switch</string>
+    <string name="check_on">On</string>
+    <string name="check_off">Off, run install.sh</string>
+
+    <string name="banner_title">Message</string>
+    <string name="banner_hint">From the phone at %1$s · press OK to close</string>
+    <string name="lock_title">This TV is locked</string>
+    <string name="lock_subtitle">Enter the PIN to unlock</string>
+    <string name="pin_unlock">Enter PIN to unlock</string>
+    <string name="pin_show_code">Enter PIN to show the code</string>
+    <string name="pin_wrong">Wrong PIN</string>
+    <string name="pin_wait">Too many tries. Wait %1$d seconds.</string>
+    <string name="lock_timer_toast">The TV locks in %1$d min</string>
+</resources>
