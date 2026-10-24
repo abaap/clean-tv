@@ -1,0 +1,29 @@
+<resources>
+    <string name="subtitle">KONDISI &amp; PERAWATAN TV</string>
+    <string name="memory">MEMORI</string>
+    <string name="storage">PENYIMPANAN</string>
+    <string name="system">SISTEM</string>
+    <string name="network">JARINGAN</string>
+    <string name="clean">Bersihkan RAM</string>
+    <string name="clean_hint">Menutup semua aplikasi yang berjalan di latar.</string>
+    <string name="recent_apps">APLIKASI TERAKHIR  ·  OK UNTUK MENUTUP</string>
+    <string name="disk_free">%1$s SISA / %2$s</string>
+    <string name="cpu_percent">CPU  %1$d%%</string>
+    <string name="cpu_cores">CPU  %1$d inti</string>
+    <string name="thermal">Suhu  %1$s</string>
+    <string name="uptime">Menyala  %1$s</string>
+    <string name="thermal_normal">Normal</string>
+    <string name="thermal_warm">Hangat</string>
+    <string name="thermal_hot">Panas</string>
+    <string name="thermal_very_hot">Sangat panas</string>
+    <string name="not_connected">Tidak terhubung</string>
+    <string name="cleaning">Membersihkan %1$d aplikasi…</string>
+    <string name="cleaned">Selesai · %1$s dibebaskan</string>
+    <string name="no_usage_access">Izin riwayat aplikasi belum diberikan.</string>
+    <string name="close">Tutup</string>
+    <string name="closed">Ditutup</string>
+    <string name="closed_freed">Ditutup · %1$s</string>
+    <string name="days_hours" formatted="false">%d hari %d jam</string>
+    <string name="hours_minutes" formatted="false">%d jam %d mnt</string>
+    <string name="minutes" formatted="false">%d mnt</string>
+</resources>

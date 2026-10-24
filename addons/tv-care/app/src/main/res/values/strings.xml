@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">TV Care</string>
+    <string name="subtitle">TV HEALTH &amp; CARE</string>
+    <string name="memory">MEMORY</string>
+    <string name="storage">STORAGE</string>
+    <string name="system">SYSTEM</string>
+    <string name="network">NETWORK</string>
+    <string name="clean">Clean RAM</string>
+    <string name="clean_hint">Closes every app running in the background.</string>
+    <string name="recent_apps">RECENT APPS  ·  OK TO CLOSE</string>
+    <string name="disk_free">%1$s FREE / %2$s</string>
+    <string name="cpu_percent">CPU  %1$d%%</string>
+    <string name="cpu_cores">CPU  %1$d cores</string>
+    <string name="thermal">Temperature  %1$s</string>
+    <string name="uptime">Up  %1$s</string>
+    <string name="days_hours" formatted="false">%d d %d h</string>
+    <string name="hours_minutes" formatted="false">%d h %d min</string>
+    <string name="minutes" formatted="false">%d min</string>
+    <string name="thermal_normal">Normal</string>
+    <string name="thermal_warm">Warm</string>
+    <string name="thermal_hot">Hot</string>
+    <string name="thermal_very_hot">Very hot</string>
+    <string name="not_connected">Not connected</string>
+    <string name="cleaning">Cleaning %1$d apps…</string>
+    <string name="cleaned">Done · %1$s freed</string>
+    <string name="no_usage_access">Usage access has not been granted.</string>
+    <string name="close">Close</string>
+    <string name="closed">Closed</string>
+    <string name="closed_freed">Closed · %1$s</string>
+</resources>

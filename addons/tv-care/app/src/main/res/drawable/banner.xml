@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 16:9 tile: a gauge arc in red over near-black, with a white pulse line through it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp" android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#0A0A0C" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#3DB3001B" android:pathData="M200,-40a150,150 0,1 1,0.1 0z" />
+    <path android:strokeColor="#33FFFFFF" android:strokeWidth="9" android:strokeLineCap="round"
+        android:pathData="M117.6,132.4A60,60 0,1 1,202.4 132.4" />
+    <path android:strokeColor="#E11D2E" android:strokeWidth="9" android:strokeLineCap="round"
+        android:pathData="M117.6,132.4A60,60 0,0 1,160 30" />
+    <path android:strokeColor="#F5F5F7" android:strokeWidth="4" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M112,92h22l10,-24l14,46l12,-34l8,12h30" />
+</vector>
